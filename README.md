@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Natty-p/Natty-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nathan Paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
