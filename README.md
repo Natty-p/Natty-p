@@ -1,7 +1,8 @@
+<h1 align="center">Hi Everyone 👋, I'm Nathan Paul</h1>
+  
   <img width="3264" height="1088" alt="profile Banner" src="https://github.com/user-attachments/assets/2d824952-022d-40ec-9f5f-aeb1b75fde77" />
 
 
-<h1 align="center">Hi 👋, I'm Nathan Paul</h1>
 <h3 align="center">Data Analyst | Power BI | Excel | Python | Turning Data into Decisions | BSC Estate Management & Valuation Graduate | Open to Opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natty-p&label=Profile%20views&color=0e75b6&style=flat" alt="natty-p" /> </p>
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me **paulnathan049@gmail.com**
 
-- ⚡ Fun fact **Without data, you're just another person with an opinion**
+- ⚡ Fun fact ** " Without data, you're just another person with an opinion " **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
